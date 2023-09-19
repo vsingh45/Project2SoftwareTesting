@@ -1,4 +1,4 @@
-package Project2SoftwareTesting.Project2SoftwareTesting;
+package org.ProjectSoftwareTesting.Analysis;
 
 public class StaticAnalysis
 {
